@@ -9,12 +9,13 @@ Contenuto
 
 Regole
 ======
-* Ogni giocatore inizia con 7 carte in mano
--Vince il giocatore che rimane senza carte
--L'obiettivo del gioco è di posizionare in ordine cronologico le carte di eventi partendo da una carta di riferimento iniziale posta sul tavolo da gioco.
--Ad ogni turno il giocatore può dubitare della correttezza della sequenza delle carte sul tavolo, se ha ragione il giocatore precedente prende 3 carte nella sua mano pescandole dal mazzo, altrimenti il giocatore che ha dubitato (erroneamente) prende 2 carte dal mazzo
--A fronte del dubbio di un giocatore e del controllo di correttezza della sequenza, dato che vengono rivelate le date sulle carte, il tavolo da gioco viene ripulito e viene posta una nuova carta di riferimento.Se il giocatore ha dubitato bene inizia lui,altrimenti inizia il giocatore successivo
--Se un giocatore nel proprio turno ha una sola carta in mano e sul tavolo da gioco è presente solo una carta di riferimento allora deve pescare una carta dal mazzo e posizionare tutte e due le carte in mano sul tavolo; il giocatore nel turno successivo è obbligato a dubitare della sequenza (altrimenti il giocatore che è rimasto senza carte vince banalmente la partita)
+* Ogni giocatore inizia con 7 carte in mano.
+* Il gioco termina quando uno dei giocatori rimane senza carte in mano e si considera quindi il vincitore
+* L'obiettivo del gioco è di posizionare in ordine cronologico le carte di eventi partendo da una carta di riferimento iniziale posta sul tavolo da gioco.
+* Ogni turno di un giocatore è composto da due fasi: la prima fase è opzionale e permette di dubitare della sequenza di carte sul tavolo, secondoa invece è obbligatoria e costringe il giocate a posizionare una delle carte della sua mano sulla linea temporale del tavolo. 
+* Nel caso in cui un giocatore dubita della sequenza ed ha ragione il giocatore del turno precedente prende 3 carte nella sua mano pescandole dal mazzo, altrimenti il giocatore che ha dubitato (erroneamente) prende 2 carte dal mazzo.
+* Dopo un evento di dubbio vengono rivelate le date sulle carte presenti sul tavolo. Il tavolo viene quindi ripulito ed inizializzato con una nuova carta di riferimento. Il giocatore che ha dubitato correttamente inizia il turno, altrimenti inizia il giocatore successivo.
+* Se un giocatore nel proprio turno ha una sola carta in mano e anche sul tavolo da gioco è presente solo una carta di riferimento, allora deve pescare una carta dal mazzo e posizionare le due le carte in mano sul tavolo; il giocatore nel turno successivo è obbligato a dubitare della sequenza (altrimenti il giocatore che è rimasto senza carte vince banalmente la partita).
 
 Funzionamento generale del sistema:
 1) Registrazione presso un server centrale della partita di un giocatore_0
