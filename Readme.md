@@ -9,8 +9,7 @@ Contenuto
 
 Regole
 ======
--336 carte con 2 attributi: evento storico e data
--7 carte per giocatore
+* Ogni giocatore inizia con 7 carte in mano
 -Vince il giocatore che rimane senza carte
 -L'obiettivo del gioco è di posizionare in ordine cronologico le carte di eventi partendo da una carta di riferimento iniziale posta sul tavolo da gioco.
 -Ad ogni turno il giocatore può dubitare della correttezza della sequenza delle carte sul tavolo, se ha ragione il giocatore precedente prende 3 carte nella sua mano pescandole dal mazzo, altrimenti il giocatore che ha dubitato (erroneamente) prende 2 carte dal mazzo
