@@ -1,4 +1,5 @@
 Anno Domini
+===========
 
 Regole:
 -336 carte con 2 attributi: evento storico e data
