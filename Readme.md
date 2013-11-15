@@ -1,7 +1,14 @@
 Anno Domini
 ===========
 
-Regole:
+Anno domini è un gioco di carte: consiste nel collocare le carte dei giocatori in una linea temporale a seconda dell'evento.
+
+Contenuto
+=========
+336 carte: sul fronte è descritto un evento, e sul retro l’anno in cui è accaduto.
+
+Regole
+======
 -336 carte con 2 attributi: evento storico e data
 -7 carte per giocatore
 -Vince il giocatore che rimane senza carte
